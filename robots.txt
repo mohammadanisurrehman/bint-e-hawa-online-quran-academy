@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bint-e-hawa-online-quran-academy.vercel.app/sitemap.xml
